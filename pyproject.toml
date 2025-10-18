@@ -1,10 +1,11 @@
 [project]
-name = "d2l"
+name = "myd2l"
 version = "0.1.0"
 description = "动手学《动手学深度学习》"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "d2l>=0.17.0",
     "ipykernel>=7.0.1",
     "numpy>=2.2.6",
     "pandas>=2.3.3",
