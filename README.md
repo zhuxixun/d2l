@@ -12,7 +12,7 @@
 | **2. 预备知识** |  |  |
 | &nbsp;&nbsp;2.1 数据操作 | [`📙 2.1.ipynb`](chapter2/2.1.ipynb) | 张量基础 |
 | &nbsp;&nbsp;2.2 数据预处理 | [`📙 2.2.ipynb`](chapter2/2.2.ipynb) | 缺失值处理、张量转换 |
-| &nbsp;&nbsp;2.2 数据预处理 | [`📙 2.3.ipynb`](chapter2/2.3.ipynb) | 降维、矩阵乘、范数 |
+| &nbsp;&nbsp;2.3 线性代数 | [`📙 2.3.ipynb`](chapter2/2.3.ipynb) | 降维、矩阵乘、范数 |
 
 ---
 
