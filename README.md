@@ -15,6 +15,8 @@
 | &nbsp;&nbsp;2.3 线性代数 | [`📙 2.3.ipynb`](chapter2/2.3.ipynb) | 降维、矩阵乘、范数 |
 | &nbsp;&nbsp;2.4 微积分 | [`📙 2.4.ipynb`](chapter2/2.4.ipynb) | 微分、偏导、梯度、链式法则 |
 | &nbsp;&nbsp;2.5 自动微积 | [`📙 2.5.ipynb`](chapter2/2.5.ipynb) | 反向传播、分离计算 |
+| &nbsp;&nbsp;2.6 概率 | [`📙 2.6.ipynb`](chapter2/2.6.ipynb) | 基本概率论 |
+| &nbsp;&nbsp;2.7 查阅文档 | [`📙 2.7.ipynb`](chapter2/2.7.ipynb) | 查找模块中函数和类、查找函数和类用法 |
 
 ---
 
