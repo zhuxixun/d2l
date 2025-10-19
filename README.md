@@ -14,6 +14,7 @@
 | &nbsp;&nbsp;2.2 数据预处理 | [`📙 2.2.ipynb`](chapter2/2.2.ipynb) | 缺失值处理、张量转换 |
 | &nbsp;&nbsp;2.3 线性代数 | [`📙 2.3.ipynb`](chapter2/2.3.ipynb) | 降维、矩阵乘、范数 |
 | &nbsp;&nbsp;2.4 微积分 | [`📙 2.4.ipynb`](chapter2/2.4.ipynb) | 微分、偏导、梯度、链式法则 |
+| &nbsp;&nbsp;2.5 自动微积 | [`📙 2.5.ipynb`](chapter2/2.5.ipynb) | 反向传播、分离计算 |
 
 ---
 
